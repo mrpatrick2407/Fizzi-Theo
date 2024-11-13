@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Desert"
+						}
+					}
+				]
+			},
+			"pricecopy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Labore ut magna cupidatat ad consectetur. Anim anim ipsum fugiat adipisicing proident mollit cupidatat nisi ipsum nisi incididunt. Nulla ut voluptate tempor quis reprehenderit nulla velit."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

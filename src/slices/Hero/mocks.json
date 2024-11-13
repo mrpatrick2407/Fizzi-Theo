@@ -1,0 +1,100 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Enough"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Proident aute sunt adipisicing tempor. Deserunt eu est proident pariatur elit elit velit pariatur esse enim do officia ad tempor cillum. Commodo sit deserunt excepteur consectetur consequat pariatur excepteur."
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Labore nisi laboris elit sint aliqua aliquip qui nostrud elit reprehenderit sunt non nisi veniam. Non nulla exercitation ad nostrud ea fugiat do mollit nostrud veniam esse. Dolor labore sint in enim incididunt eu esse deserunt sit."
+						}
+					}
+				]
+			},
+			"buttontext": {
+				"__TYPE__": "FieldContent",
+				"value": "word",
+				"type": "Text"
+			},
+			"buttonlink": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://prismic.io",
+					"text": "place"
+				}
+			},
+			"cansimage": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118",
+					"width": 4160,
+					"height": 3120
+				},
+				"url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118",
+				"width": 4160,
+				"height": 3120,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"secondheader": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Consider"
+						}
+					}
+				]
+			},
+			"secondbody": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Cupidatat dolore minim amet pariatur minim culpa nostrud sunt pariatur aliqua pariatur mollit minim mollit voluptate. Laboris laborum ex nostrud velit ut eu consequat non eu laborum ipsum. Sunt enim Lorem qui est sint enim Lorem laboris reprehenderit."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
